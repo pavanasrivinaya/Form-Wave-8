@@ -9,4 +9,3 @@ labels.forEach((label) => {
     )
     .join('');
 });
-© 2021 GitHub, Inc.
